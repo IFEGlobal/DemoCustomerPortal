@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2007"
+   width="682.66669"
+   height="682.66669"
+   viewBox="0 0 682.66669 682.66669"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2011">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2029">
+      <path
+         d="M 0,512 H 512 V 0 H 0 Z"
+         id="path2027" />
+    </clipPath>
+  </defs>
+  <g
+     id="g2013"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,682.66667)">
+    <g
+       id="g2015"
+       transform="translate(0,470.1105)">
+      <path
+         d="m 0,0 v -101.201 l 205.538,-10 10,39.591 -10,71.61 z"
+         style="fill:#ff8848;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path2017" />
+    </g>
+    <g
+       id="g2019"
+       transform="translate(205.5381,470.1108)">
+      <path
+         d="m 0,0 v -111.202 l 205.538,10 V 0 Z"
+         style="fill:#ff4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path2021" />
+    </g>
+    <g
+       id="g2023">
+      <g
+         id="g2025"
+         clip-path="url(#clipPath2029)">
+        <g
+           id="g2031"
+           transform="translate(0,368.9092)">
+          <path
+             d="m 0,0 v -255.345 c 0,-14.136 11.459,-25.595 25.596,-25.595 h 179.942 l 20,158.364 -20,122.576 z"
+             style="fill:#fff5f5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path2033" />
+        </g>
+        <g
+           id="g2035"
+           transform="translate(205.5381,87.9688)">
+          <path
+             d="m 0,0 h 179.942 c 14.137,0 25.596,11.459 25.596,25.595 V 280.94 H 0 Z"
+             style="fill:#dce6eb;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path2037" />
+        </g>
+        <path
+           d="m 84.139,428.221 h -30 V 512 h 30 z"
+           style="fill:#004967;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2039" />
+        <path
+           d="m 152.339,428.221 h -30 V 512 h 30 z"
+           style="fill:#004967;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2041" />
+        <path
+           d="m 288.737,428.221 h -30 V 512 h 30 z"
+           style="fill:#001130;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2043" />
+        <path
+           d="m 356.937,428.221 h -30 V 512 h 30 z"
+           style="fill:#001130;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2045" />
+        <g
+           id="g2047"
+           transform="translate(146.4893,158.6851)">
+          <path
+             d="M 0,0 -18.181,8.335 31.293,116.25 h -58.706 v 20 h 82.16 v -16.833 z"
+             style="fill:#004967;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path2049" />
+        </g>
+        <g
+           id="g2051"
+           transform="translate(190.5381,512)">
+          <path
+             d="M 0,0 V -83.779 H 15 L 25,-41.889 15,0 Z"
+             style="fill:#004967;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path2053" />
+        </g>
+        <path
+           d="m 220.538,512 h -15 v -83.779 h 15 z"
+           style="fill:#001130;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2055" />
+        <g
+           id="g2057"
+           transform="translate(198.6436,208.6211)">
+          <path
+             d="m 0,0 c 0,-8.932 2.526,-17.283 6.895,-24.384 l 10,26.929 -10,21.839 C 2.526,17.283 0,8.932 0,0"
+             style="fill:#004967;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path2059" />
+        </g>
+        <g
+           id="g2061"
+           transform="translate(245.3213,181.9429)">
+          <path
+             d="m 0,0 c -14.71,0 -26.678,11.968 -26.678,26.678 0,14.711 11.968,26.678 26.678,26.678 14.711,0 26.679,-11.967 26.679,-26.678 C 26.679,11.968 14.711,0 0,0 M 26.679,109.384 V 64.948 C 19.11,70.24 9.915,73.356 0,73.356 c -16.807,0 -31.562,-8.931 -39.783,-22.293 V 2.294 C -31.562,-11.069 -16.807,-20 0,-20 c 9.915,0 19.11,3.117 26.679,8.409 V -20 h 20 v 129.384 z"
+             style="fill:#001130;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path2063" />
+        </g>
+        <g
+           id="g2065"
+           transform="translate(303.333,111.8335)">
+          <path
+             d="m 0,0 c 0,-53.479 43.354,-96.833 96.833,-96.833 l 20,104.734 -20,88.932 C 43.354,96.833 0,53.479 0,0"
+             style="fill:#fff5f5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path2067" />
+        </g>
+        <g
+           id="g2069"
+           transform="translate(400.167,208.6665)">
+          <path
+             d="M 0,0 H -0.001 V -193.667 H 0 c 53.479,0 96.833,43.354 96.833,96.834 C 96.833,-43.354 53.479,0 0,0"
+             style="fill:#dce6eb;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path2071" />
+        </g>
+        <g
+           id="g2073"
+           transform="translate(318.333,111.8335)">
+          <path
+             d="m 0,0 c 0,45.123 36.711,81.833 81.833,81.833 l 10,15 -10,15 C 20.169,111.833 -30,61.665 -30,0 -30,-61.665 20.169,-111.833 81.833,-111.833 l 10,15 -10,15 C 36.711,-81.833 0,-45.123 0,0"
+             style="fill:#218adc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path2075" />
+        </g>
+        <g
+           id="g2077"
+           transform="translate(400.167,223.6665)">
+          <path
+             d="M 0,0 H -0.001 V -30 H 0 c 45.123,0 81.833,-36.71 81.833,-81.833 0,-45.123 -36.71,-81.834 -81.833,-81.834 h -0.001 v -30 H 0 c 61.665,0 111.833,50.169 111.833,111.834 C 111.833,-50.168 61.665,0 0,0"
+             style="fill:#1865a1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path2079" />
+        </g>
+        <g
+           id="g2081"
+           transform="translate(385.167,163.6665)">
+          <path
+             d="m 0,0 v -45.62 l -18.606,-18.607 21.212,-21.212 12.393,12.393 10,40.379 -10,32.667 z"
+             style="fill:#218adc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path2083" />
+        </g>
+        <g
+           id="g2085"
+           transform="translate(415.167,163.6665)">
+          <path
+             d="M 0,0 H -15.001 V -73.046 L 0,-58.046 Z"
+             style="fill:#1865a1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path2087" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

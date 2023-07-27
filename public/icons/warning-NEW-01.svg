@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.8;}
+	.st1{fill:#6D6D6D;}
+	.st2{fill:#F1CC31;}
+	.st3{fill:#102A4C;}
+	.st4{opacity:0.4;fill:url(#SVGID_1_);}
+</style>
+<g>
+	<g class="st0">
+		<path class="st1" d="M219.7,170.6L118.5,345.5c-16.1,27.9,4,62.7,36.2,62.7h201.9c32.2,0,52.3-34.8,36.2-62.7L292.1,170.6
+			C276,142.7,235.8,142.7,219.7,170.6z"/>
+	</g>
+	<path class="st2" d="M501.9,408.3l-213.7-357c-14.6-24.3-49.8-24.3-64.3,0l-213.7,357c-15,25,3,56.7,32.2,56.7h427.5
+		C498.9,465,516.9,433.2,501.9,408.3z"/>
+	<g>
+		<path class="st3" d="M456.8,437.3H54.5c-6.4,0-12.4-3.5-15.6-9.1c-3.2-5.6-3.1-12.5,0.2-18.1l201.2-339c3.3-5.5,9-8.8,15.4-8.8
+			s12.2,3.3,15.4,8.8l201.2,339c3.3,5.5,3.3,12.5,0.2,18.1C469.3,433.8,463.3,437.3,456.8,437.3z M66.1,412.7h379.2L255.7,93.2
+			L66.1,412.7z"/>
+	</g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="17.4753" y1="214.4773" x2="343.6278" y2="214.4773">
+		<stop  offset="0" style="stop-color:#352713"/>
+		<stop  offset="0.1392" style="stop-color:#392B16"/>
+		<stop  offset="0.2788" style="stop-color:#45371F"/>
+		<stop  offset="0.4187" style="stop-color:#584B2E"/>
+		<stop  offset="0.5588" style="stop-color:#736743"/>
+		<stop  offset="0.6992" style="stop-color:#968C5F"/>
+		<stop  offset="0.8398" style="stop-color:#C1B880"/>
+		<stop  offset="0.9782" style="stop-color:#F3ECA7"/>
+		<stop  offset="1" style="stop-color:#FCF5AE"/>
+	</linearGradient>
+	<path class="st4" d="M343.6,143.8l-55.5-92.6c-14.6-24.3-49.8-24.3-64.3,0L17.5,396C257.6,335.2,324.9,212.4,343.6,143.8z"/>
+</g>
+<g>
+	<path class="st3" d="M256.1,385.8c-15.2,0-25.3-9.6-25.3-21.7c0-12.5,10.2-22.1,25.3-22.1c14.9,0,25.1,9.6,25.1,22.1
+		C281.2,376.2,271,385.8,256.1,385.8z M232.5,184.8h46l-5,141h-36L232.5,184.8z"/>
+</g>
+</svg>

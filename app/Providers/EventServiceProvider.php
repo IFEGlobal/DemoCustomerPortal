@@ -18,20 +18,26 @@ class EventServiceProvider extends ServiceProvider
         Registered::class => [
             SendEmailVerificationNotification::class,
         ],
+        'Illuminate\Auth\Events\Login' => ['App\Listeners\LoginListener'],
+        'Illuminate\Auth\Events\Logout' => ['App\Listeners\LogoutListener'],
     ];
 
     /**
      * Register any events for your application.
+     *
+     * @return void
      */
-    public function boot(): void
+    public function boot()
     {
         //
     }
 
     /**
      * Determine if events and listeners should be automatically discovered.
+     *
+     * @return bool
      */
-    public function shouldDiscoverEvents(): bool
+    public function shouldDiscoverEvents()
     {
         return false;
     }
